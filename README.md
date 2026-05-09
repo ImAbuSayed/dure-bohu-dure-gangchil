@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dure-bohu-dure-gangchil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Dure Bohu Dure Gangchil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-bohu-dure-gangchil/) |
+| **Get License** | [Secure Licensing Rights for Dure Bohu Dure Gangchil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-bohu-dure-gangchil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4805c4e67bab9bd1f6ec58ed44035d02cbb9bd028af6a14e8bbf00eeaa7b53e3` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dure Bohu Dure Gangchil
+
+This log tracks the cryptographic history and versioning for the song **Dure Bohu Dure Gangchil** (dure-bohu-dure-gangchil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T02:45:57.396178 | `v1` | `4805c4e67bab9bd1f6ec58ed44035d02cbb9bd028af6a14e8bbf00eeaa7b53e3` | `5681e41509233ac3db5922e56e7593b5d116918619c9dc8702212c0d9f7d0ded` | `2026-05-10_dure-bohu-dure-gangchil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
