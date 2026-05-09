@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dure-bohu-dure-gangchil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dure Bohu Dure Gangchil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-bohu-dure-gangchil/) |
+| **Get License** | [Obtain a Music License for Dure Bohu Dure Gangchil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dure-bohu-dure-gangchil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> দূরে বহু দূরে গাঙচিল উড়ে যায় মেঘের আড়ালে.. বহু দূরে..
+> হৃদয়ের সবটুকু শূন্যতা তুমি আজ কাছে ডাকলে
+> বেদনার নীল রঙ মুছে দিয়ে তুমি এলে এই জীবনে
+> অজান্তেই জ্বলে ওঠে আগুন আমার একলা মনে.. একলা মনে..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
